@@ -1,1 +1,1 @@
-/Users/doriankinoocrutcher/Documents/blockheads/decash_rust/contract/target/wasm32-unknown-unknown/release/greeter.wasm: /Users/doriankinoocrutcher/Documents/blockheads/decash_rust/contract/src/lib.rs
+/Users/ducnguyen/Desktop/near/DeCash_Rust/contract/target/wasm32-unknown-unknown/release/greeter.wasm: /Users/ducnguyen/Desktop/near/DeCash_Rust/contract/src/lib.rs

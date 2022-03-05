@@ -1,4 +1,4 @@
-const CONTRACT_NAME = process.env.CONTRACT_NAME ||'decash_rust'
+const CONTRACT_NAME = process.env.CONTRACT_NAME ||'decash_rust.mitsori1.testnet'
 
 function getConfig(env) {
   switch (env) {
